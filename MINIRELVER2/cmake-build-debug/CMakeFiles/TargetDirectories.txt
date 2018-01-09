@@ -1,0 +1,3 @@
+/home/shivank/database/MINIRELVER2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shivank/database/MINIRELVER2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shivank/database/MINIRELVER2/cmake-build-debug/CMakeFiles/MINIRELVER2.dir
